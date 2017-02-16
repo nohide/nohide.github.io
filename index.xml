@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>扯皮 - 无处可逃</title>
+    <link>http://nohide.github.io/index.xml</link>
+    <description>Recent content on 扯皮 - 无处可逃</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Tue, 14 Feb 2017 00:11:08 +0800</lastBuildDate>
+    <atom:link href="http://nohide.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>third</title>
+      <link>http://nohide.github.io/first/</link>
+      <pubDate>Tue, 14 Feb 2017 00:11:08 +0800</pubDate>
+      
+      <guid>http://nohide.github.io/first/</guid>
+      <description>&lt;p&gt;xxxx&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
